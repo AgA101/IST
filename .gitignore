@@ -1,0 +1,15 @@
+# Большие данные и медиа (в git не храним)
+data/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.npz
+
+# Исходные материалы
+*.pdf
+
+# Бэкапы и временное
+*_backup.ipynb
+__pycache__/
+.ipynb_checkpoints/
